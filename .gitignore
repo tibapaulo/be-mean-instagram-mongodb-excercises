@@ -1,6 +1,12 @@
 # Logs
 logs
 *.log
+~*
+
+# Mac
+.DS_Store
+*/.DS_Store
+.swp
 
 # Runtime data
 pids
